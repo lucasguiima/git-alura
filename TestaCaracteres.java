@@ -10,7 +10,7 @@ public class TestaCaracteres {
         valor = (char) (valor + 1);
         System.out.println(valor);
 
-        String palavra = "A oobj é fera demais!";
+        String palavra = "A oobj é fera demais! #MelhorEmpresa";
         System.out.println(palavra);
 
         palavra = palavra + 2020;
